@@ -5,3 +5,5 @@ We created this game in Ren'py, using Python. The narrative logic was relatively
 With this project, I learned a bit about logic programming and how visual novels work.
 Unfortunately the game is not complete because some of my friends can't finish the backgrounds, but i decide to post here to mark my progress as a developer, i hope you like it.
 
+You can play the demo on itch.io:
+https://mhxou77.itch.io/bleed-roads
